@@ -15,7 +15,7 @@ const UserSchema = new Schema({
     ],
   },
   Image: {
-    type: string,
+    type: String,
   },
 });
 
