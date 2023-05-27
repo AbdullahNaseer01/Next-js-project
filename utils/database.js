@@ -17,7 +17,7 @@ try {
     })
     isConnected = ture
 
-    console.log('MongoDB connected')
+    console.log('MongoDB connecte')
 
 } catch (error) {
     console.log(error)
