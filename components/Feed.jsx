@@ -2,7 +2,7 @@ import React from 'react'
 
 const Feed = () => {
   return (
-    <div>Feed</div>
+    <div>all data will be here </div>
   )
 }
 

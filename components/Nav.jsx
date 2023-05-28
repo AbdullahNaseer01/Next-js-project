@@ -30,7 +30,7 @@ const Nav = () => {
           height={30}
           className="object-contain"
         />
-        <p className="logo_text">PromptQuests</p>
+        <p className="logo_text">PromptQuest</p>
         {/* {alert(providers)} */}
       </Link>
       {/* {alert(session?.user)} */}
